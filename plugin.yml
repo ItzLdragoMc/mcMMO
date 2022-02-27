@@ -1,7 +1,7 @@
 name: mcMMO
-main: cosmicpe\mcmmo\McMMO
+main: cosmicpe\mcmmo\main
 author: Muqsit, ItzLdragoOp 
 api: 4.0.0
 version: 1.2.0
 
- description: released
+
