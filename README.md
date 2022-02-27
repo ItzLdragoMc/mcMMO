@@ -1,6 +1,8 @@
 # mcMMO
+Powerfull skills plugin recently fixed 
 
-## API
+## Info 
+recently fixed to api4 
 
 ### Player API
 To fetch an `McMMOPlayer` instance of an online player
@@ -23,8 +25,7 @@ $mcmmo_player->increaseSkillLevel(SkillManager::get(SkillIds::ACROBATICS), 3);
 Note that `increaseSkillExperience` and `increaseSkillLevel` return a boolean indicating whether `McMMOPlayerSkillExperienceChangeEvent` was not cancelled (returns true if the event wasn't cancelled).
 
 
-### Events API
-#### McMMOPlayerAbilityActivateEvent
+### McMMOPlayerAbilityActivateEvent
 Called when player activates an ability (f.e: giga drill breaker).
 ```php
 /**
