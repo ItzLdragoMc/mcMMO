@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace cosmicpe\mcmmo;
+namespace ItzLdragoMc\mcmmo;
 
 use cosmicpe\mcmmo\command\McMMOCommandManager;
 use cosmicpe\mcmmo\customitem\CustomItemFactory;
